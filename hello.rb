@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "Hello roro "
+  "Hello Xcode"
 end
